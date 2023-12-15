@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:checkable="true"
+
+
+        />
+
+    <item
+        android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/baseline_share_24"
+        android:checkable="true"
+
+
+        />
+
+
+    <item
+        android:id="@+id/feedback"
+        android:title="FeedBack"
+        android:icon="@drawable/baseline_feedback_24"
+        android:checkable="true"
+
+        />
+
+    <item
+        android:id="@+id/settings"
+        android:title="Setting"
+        android:icon="@drawable/baseline_settings_24"
+        android:checkable="true"
+
+
+        />
+
+    <item
+        android:id="@+id/developer"
+        android:title="developer"
+        android:icon="@drawable/baseline_developer_mode_24"
+        android:checkable="true"
+
+
+        />
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:checkable="true"
+
+
+        />
+</menu>
